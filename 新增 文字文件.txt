@@ -1,6 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 
 hello yeinchingg
 i'm Candy
 >>>>>>> 311ead21c9fb2d750545e86806636165007958b0
+=======
+
+=======
+hello yeinchingg
+i'm Candy
+>>>>>>> 311ead21c9fb2d750545e86806636165007958b0
+
+嗨~~~
+我是彥情歐
+>>>>>>> 8f8437d2b0dadf9b4e7c47d3145aa47a6f61182d
+哈哈哈哈
